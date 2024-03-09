@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-duo-tal-revivo.png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">HASHTAGGEN</h1>
+    <h1 align="center">HashtagGEN</h1>
 </p>
 <p align="center">
     <em>HashtagGen: Spark Your Content with AI-Powered Tags!</em>
