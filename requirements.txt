@@ -1,0 +1,7 @@
+streamlit
+google-generativeai 
+langchain-google-genai
+crewai==0.11.0 
+langchain_community 
+duckduckgo_search
+dotenv
